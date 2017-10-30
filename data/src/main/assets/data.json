@@ -1,0 +1,144 @@
+{
+  "stocks": [
+    {
+      "id":1,
+      "name": "Apple",
+      "tickr": "APL",
+      "price": [
+        1,
+        2,
+        3,
+        3,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "id":2,
+      "name": "Samsung",
+      "tickr": "SAM",
+      "price": [
+        1,
+        2,
+        3,
+        3,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "id":3,
+      "name": "Nokia",
+      "tickr": "NOK",
+      "price": [
+        1,
+        2,
+        3,
+        3,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "id":4,
+      "name": "Sony",
+      "tickr": "SON",
+      "price": [
+        1,
+        2,
+        3,
+        3,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "id":4,
+      "name": "Google",
+      "tickr": "GGL",
+      "price": [
+        1,
+        2,
+        3,
+        3,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "id":5,
+      "name": "Yahoo",
+      "tickr": "YAH",
+      "price": [
+        1,
+        2,
+        3,
+        3,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "id":6,
+      "name": "Amazon",
+      "tickr": "AZN",
+      "price": [
+        1,
+        2,
+        3,
+        3,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "id":7,
+      "name": "Uber",
+      "tickr": "UBR",
+      "price": [
+        1,
+        2,
+        3,
+        3,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "id":8,
+      "name": "Netflix",
+      "tickr": "NFX",
+      "price": [
+        1,
+        2,
+        3,
+        3,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "id":9,
+      "name": "Ola",
+      "tickr": "OLA",
+      "price": [
+        1,
+        2,
+        3,
+        3,
+        4,
+        4,
+        5
+      ]
+    }
+  ]
+}
